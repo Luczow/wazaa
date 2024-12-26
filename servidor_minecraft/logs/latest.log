@@ -123,3 +123,19 @@
 [03:10:29] [Server thread/INFO]: JayPi_XD has made the advancement [Enchanter]
 [03:13:47] [Server thread/INFO]: JayPi_XD has made the advancement [What a Deal!]
 [03:18:02] [Server thread/INFO]: Luckzow1 has made the advancement [What a Deal!]
+[03:20:52] [Server thread/INFO]: Luckzow1 lost connection: Disconnected
+[03:20:52] [Server thread/INFO]: Luckzow1 left the game
+[03:21:10] [Server thread/INFO]: Luckzow1[/127.210.43.175:45003] logged in with entity id 61926 at (494.77202166161874, 64.02442408821369, 251.52263235255472)
+[03:21:10] [Server thread/INFO]: Luckzow1 joined the game
+[03:21:37] [Server thread/INFO]: JayPi_XD has made the advancement [Take Aim]
+[03:25:58] [Server thread/WARN]: JayPi_XD moved too quickly! 9.299515418203782,0.7531999805212024,-4.462754468992815
+[03:31:49] [Server thread/INFO]: JayPi_XD lost connection: Disconnected
+[03:31:49] [Server thread/INFO]: JayPi_XD left the game
+[03:33:35] [Server thread/INFO]: JayPi_XD[/127.114.177.1:41491] logged in with entity id 72551 at (477.69999998807907, 70.0, -719.6999999880791)
+[03:33:35] [Server thread/INFO]: JayPi_XD joined the game
+[03:35:36] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=392, y=64, z=-991} jd{x=390, y=62, z=-991}
+[03:37:05] [Server thread/INFO]: JayPi_XD lost connection: Timed out
+[03:37:05] [Server thread/INFO]: JayPi_XD left the game
+[03:37:05] [Server thread/WARN]: handleDisconnection() called twice
+[03:37:30] [Server thread/INFO]: JayPi_XD[/127.114.177.1:56645] logged in with entity id 77368 at (278.02993837345116, 65.0, -1070.0588016351805)
+[03:37:31] [Server thread/INFO]: JayPi_XD joined the game
