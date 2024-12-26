@@ -87,3 +87,6 @@
 [01:44:25] [Server thread/INFO]: Luckzow1 has made the advancement [Take Aim]
 [01:48:22] [Server thread/INFO]: Luckzow1 lost connection: Disconnected
 [01:48:22] [Server thread/INFO]: Luckzow1 left the game
+[01:51:39] [Server thread/INFO]: Luckzow1[/127.210.43.175:60651] logged in with entity id 27631 at (522.0938566297851, -13.0, 135.7211819482796)
+[01:51:39] [Server thread/INFO]: Luckzow1 joined the game
+[01:53:06] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=657, y=109, z=28} jd{x=656, y=107, z=28}
