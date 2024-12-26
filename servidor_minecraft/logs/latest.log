@@ -140,3 +140,7 @@
 [03:37:30] [Server thread/INFO]: JayPi_XD[/127.114.177.1:56645] logged in with entity id 77368 at (278.02993837345116, 65.0, -1070.0588016351805)
 [03:37:31] [Server thread/INFO]: JayPi_XD joined the game
 [03:40:53] [Server thread/INFO]: [JayPi_XD: Teleported JayPi_XD to Luckzow1]
+[03:59:07] [Server thread/INFO]: Luckzow1 has made the advancement [We Need to Go Deeper]
+[03:59:08] [Server thread/INFO]: JayPi_XD has made the advancement [We Need to Go Deeper]
+[04:07:43] [Server thread/INFO]: Luckzow1 has made the advancement [Who is Cutting Onions?]
+[04:08:52] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=-278, y=67, z=35} jd{x=-279, y=67, z=34}
