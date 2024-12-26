@@ -71,3 +71,14 @@
 [01:15:44] [Server thread/WARN]: Luckzow1 moved wrongly!
 [01:16:13] [Server thread/INFO]: Villager cmk['Farmer'/3228, l='ServerLevel[world]', x=683.97, y=111.00, z=41.81] died, message: 'Farmer was slain by Zombie'
 [01:16:41] [Server thread/INFO]: Villager cmk['Cartographer'/3229, l='ServerLevel[world]', x=671.59, y=111.00, z=34.71] died, message: 'Cartographer was slain by Zombie'
+[01:19:30] [Server thread/INFO]: Luckzow1 has made the advancement [Suit Up]
+[01:20:32] [Server thread/INFO]: JayPi_XD has made the advancement [Isn't It Iron Pick]
+[01:24:07] [Server thread/INFO]: Luckzow1 has made the advancement [Sneak 100]
+[01:24:27] [Server thread/INFO]: Luckzow1 has completed the challenge [It Spreads]
+[01:24:53] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=740, y=-28, z=70} jd{x=739, y=-29, z=72}
+[01:24:56] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=737, y=-29, z=72} jd{x=734, y=-30, z=73}
+[01:26:15] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=736, y=-29, z=61} jd{x=737, y=-30, z=62}
+[01:26:18] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=728, y=-32, z=67} jd{x=729, y=-33, z=67}
+[01:26:18] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=728, y=-32, z=66} jd{x=729, y=-33, z=67}
+[01:27:44] [Server thread/WARN]: handleDisconnection() called twice
+[01:37:58] [Server thread/INFO]: Luckzow1 was blown up by Creeper
