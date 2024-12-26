@@ -769,6 +769,7 @@
       "minecraft:spider": "2024-12-26 00:44:56 +0000",
       "minecraft:zombie": "2024-12-26 00:44:09 +0000",
       "minecraft:creeper": "2024-12-26 01:00:26 +0000",
+      "minecraft:drowned": "2024-12-26 03:41:09 +0000",
       "minecraft:zombie_villager": "2024-12-26 01:17:49 +0000"
     },
     "done": false
@@ -1706,6 +1707,42 @@
   "minecraft:recipes/food/cake": {
     "criteria": {
       "has_egg": "2024-12-26 03:24:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/bookshelf": {
+    "criteria": {
+      "has_book": "2024-12-26 03:46:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/book": {
+    "criteria": {
+      "has_paper": "2024-12-26 03:46:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/lectern": {
+    "criteria": {
+      "has_book": "2024-12-26 03:46:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_bookshelf": {
+    "criteria": {
+      "has_book": "2024-12-26 03:46:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cartography_table": {
+    "criteria": {
+      "has_paper": "2024-12-26 03:46:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/writable_book": {
+    "criteria": {
+      "has_book": "2024-12-26 03:46:32 +0000"
     },
     "done": true
   },
