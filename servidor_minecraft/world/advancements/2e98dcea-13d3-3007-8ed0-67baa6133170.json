@@ -3016,6 +3016,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/spire_armor_trim_smithing_template": {
+    "criteria": {
+      "has_spire_armor_trim_smithing_template": "2024-12-30 22:16:40 +0000"
+    },
+    "done": true
+  },
   "minecraft:end/find_end_city": {
     "criteria": {
       "in_city": "2024-12-30 21:46:43 +0000"
@@ -3043,6 +3049,12 @@
   "minecraft:recipes/building_blocks/purpur_pillar_from_purpur_block_stonecutting": {
     "criteria": {
       "has_purpur_block": "2024-12-30 21:50:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/spire_armor_trim_smithing_template_smithing_trim": {
+    "criteria": {
+      "has_smithing_trim_template": "2024-12-30 22:16:40 +0000"
     },
     "done": true
   },
