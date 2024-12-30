@@ -530,6 +530,7 @@
       "cooked_porkchop": "2024-12-30 03:30:04 +0000",
       "mutton": "2024-12-30 03:16:02 +0000",
       "golden_apple": "2024-12-30 04:34:23 +0000",
+      "bread": "2024-12-30 23:43:05 +0000",
       "rotten_flesh": "2024-12-30 03:23:49 +0000",
       "cooked_beef": "2024-12-30 05:24:38 +0000",
       "baked_potato": "2024-12-30 23:35:06 +0000",
@@ -2322,6 +2323,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/chiseled_tuff_bricks_from_tuff_bricks_stonecutting": {
+    "criteria": {
+      "has_tuff_bricks": "2024-12-30 23:45:00 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/waxed_oxidized_cut_copper_stairs_from_waxed_oxidized_cut_copper_stonecutting": {
     "criteria": {
       "has_waxed_oxidized_cut_copper": "2024-12-30 23:27:56 +0000"
@@ -2358,6 +2365,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/tuff_brick_wall_from_tuff_bricks_stonecutting": {
+    "criteria": {
+      "has_tuff_bricks": "2024-12-30 23:45:00 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/spire_armor_trim_smithing_template": {
     "criteria": {
       "has_spire_armor_trim_smithing_template": "2024-12-30 22:15:11 +0000"
@@ -2367,6 +2380,12 @@
   "minecraft:recipes/building_blocks/waxed_oxidized_cut_copper_slab_from_waxed_oxidized_cut_copper_stonecutting": {
     "criteria": {
       "has_waxed_oxidized_cut_copper": "2024-12-30 23:27:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/tuff_brick_stairs": {
+    "criteria": {
+      "has_tuff_bricks": "2024-12-30 23:45:00 +0000"
     },
     "done": true
   },
@@ -2385,6 +2404,12 @@
   "minecraft:recipes/building_blocks/bricks": {
     "criteria": {
       "has_brick": "2024-12-30 23:38:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/tuff_brick_stairs_from_tuff_bricks_stonecutting": {
+    "criteria": {
+      "has_tuff_bricks": "2024-12-30 23:45:00 +0000"
     },
     "done": true
   },
@@ -2433,6 +2458,12 @@
   "minecraft:recipes/decorations/yellow_stained_glass_pane_from_glass_pane": {
     "criteria": {
       "has_yellow_dye": "2024-12-30 22:32:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/tuff_brick_slab_from_tuff_bricks_stonecutting": {
+    "criteria": {
+      "has_tuff_bricks": "2024-12-30 23:45:00 +0000"
     },
     "done": true
   },
@@ -2523,6 +2554,18 @@
   "minecraft:recipes/decorations/anvil": {
     "criteria": {
       "has_iron_block": "2024-12-30 23:38:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/tuff_brick_wall": {
+    "criteria": {
+      "has_tuff_bricks": "2024-12-30 23:45:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/tuff_brick_slab": {
+    "criteria": {
+      "has_tuff_bricks": "2024-12-30 23:45:00 +0000"
     },
     "done": true
   },
