@@ -845,10 +845,12 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:blaze": "2024-12-30 07:13:31 +0000",
+      "minecraft:pillager": "2024-12-30 23:55:40 +0000",
       "minecraft:skeleton": "2024-12-30 03:44:04 +0000",
       "minecraft:phantom": "2024-12-30 07:54:48 +0000",
       "minecraft:witch": "2024-12-30 04:37:59 +0000",
       "minecraft:wither_skeleton": "2024-12-30 07:19:58 +0000",
+      "minecraft:ravager": "2024-12-30 23:57:54 +0000",
       "minecraft:husk": "2024-12-30 23:19:06 +0000",
       "minecraft:bogged": "2024-12-30 23:15:55 +0000",
       "minecraft:ghast": "2024-12-30 06:49:42 +0000",
@@ -856,6 +858,7 @@
       "minecraft:shulker": "2024-12-30 21:46:46 +0000",
       "minecraft:cave_spider": "2024-12-30 23:17:18 +0000",
       "minecraft:piglin": "2024-12-30 06:54:10 +0000",
+      "minecraft:vindicator": "2024-12-30 23:57:43 +0000",
       "minecraft:enderman": "2024-12-30 21:33:54 +0000",
       "minecraft:magma_cube": "2024-12-30 07:09:54 +0000",
       "minecraft:spider": "2024-12-30 03:24:02 +0000",
@@ -3313,6 +3316,12 @@
   "minecraft:recipes/redstone/lightning_rod": {
     "criteria": {
       "has_copper_ingot": "2024-12-30 23:00:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/voluntary_exile": {
+    "criteria": {
+      "voluntary_exile": "2024-12-30 23:57:43 +0000"
     },
     "done": true
   },

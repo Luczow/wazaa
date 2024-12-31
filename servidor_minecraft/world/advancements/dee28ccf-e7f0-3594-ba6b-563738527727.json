@@ -567,8 +567,10 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:blaze": "2024-12-30 07:16:55 +0000",
+      "minecraft:pillager": "2024-12-30 23:55:48 +0000",
       "minecraft:skeleton": "2024-12-30 03:31:08 +0000",
       "minecraft:phantom": "2024-12-30 07:54:48 +0000",
+      "minecraft:witch": "2024-12-30 23:58:56 +0000",
       "minecraft:wither_skeleton": "2024-12-30 07:13:20 +0000",
       "minecraft:husk": "2024-12-30 23:18:09 +0000",
       "minecraft:bogged": "2024-12-30 23:15:52 +0000",
@@ -577,13 +579,16 @@
       "minecraft:cave_spider": "2024-12-30 23:18:49 +0000",
       "minecraft:piglin": "2024-12-30 06:54:14 +0000",
       "minecraft:breeze": "2024-12-30 23:16:12 +0000",
+      "minecraft:vindicator": "2024-12-30 23:56:34 +0000",
       "minecraft:enderman": "2024-12-30 04:39:55 +0000",
       "minecraft:silverfish": "2024-12-30 08:37:11 +0000",
       "minecraft:magma_cube": "2024-12-30 07:10:10 +0000",
       "minecraft:spider": "2024-12-30 03:20:08 +0000",
+      "minecraft:vex": "2024-12-30 23:59:51 +0000",
       "minecraft:zombie": "2024-12-30 03:19:55 +0000",
       "minecraft:creeper": "2024-12-30 03:28:24 +0000",
-      "minecraft:drowned": "2024-12-30 05:29:16 +0000"
+      "minecraft:drowned": "2024-12-30 05:29:16 +0000",
+      "minecraft:evoker": "2024-12-30 23:59:25 +0000"
     },
     "done": false
   },
@@ -2341,6 +2346,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/dye_black_bed": {
+    "criteria": {
+      "has_needed_dye": "2024-12-30 23:52:41 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/waxed_oxidized_cut_copper_stairs": {
     "criteria": {
       "has_waxed_oxidized_cut_copper": "2024-12-30 23:27:56 +0000"
@@ -2398,6 +2409,12 @@
   "minecraft:recipes/tools/clock": {
     "criteria": {
       "has_redstone": "2024-12-30 22:39:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/black_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_black_dye": "2024-12-30 23:52:41 +0000"
     },
     "done": true
   },
@@ -2485,6 +2502,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/voluntary_exile": {
+    "criteria": {
+      "voluntary_exile": "2024-12-30 23:56:01 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/dye_yellow_wool": {
     "criteria": {
       "has_needed_dye": "2024-12-30 22:32:05 +0000"
@@ -2494,6 +2517,18 @@
   "minecraft:recipes/misc/yellow_dye_from_dandelion": {
     "criteria": {
       "has_dandelion": "2024-12-30 22:31:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/glowstone": {
+    "criteria": {
+      "has_glowstone_dust": "2024-12-30 23:59:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gray_dye": {
+    "criteria": {
+      "has_black_dye": "2024-12-30 23:52:41 +0000"
     },
     "done": true
   },
@@ -2512,6 +2547,12 @@
   "minecraft:recipes/decorations/flower_pot": {
     "criteria": {
       "has_brick": "2024-12-30 23:38:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/light_gray_dye_from_black_white_dye": {
+    "criteria": {
+      "has_black_dye": "2024-12-30 23:52:41 +0000"
     },
     "done": true
   },
@@ -2551,15 +2592,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/spectral_arrow": {
+    "criteria": {
+      "has_glowstone_dust": "2024-12-30 23:59:09 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/anvil": {
     "criteria": {
       "has_iron_block": "2024-12-30 23:38:57 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/decorations/black_candle": {
+    "criteria": {
+      "has_black_dye": "2024-12-30 23:52:41 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/tuff_brick_wall": {
     "criteria": {
       "has_tuff_bricks": "2024-12-30 23:45:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_black_carpet": {
+    "criteria": {
+      "has_needed_dye": "2024-12-30 23:52:41 +0000"
     },
     "done": true
   },
@@ -2572,6 +2631,12 @@
   "minecraft:recipes/building_blocks/polished_andesite_stairs_from_polished_andesite_stonecutting": {
     "criteria": {
       "has_polished_andesite": "2024-12-30 23:15:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_black_wool": {
+    "criteria": {
+      "has_needed_dye": "2024-12-30 23:52:41 +0000"
     },
     "done": true
   },
