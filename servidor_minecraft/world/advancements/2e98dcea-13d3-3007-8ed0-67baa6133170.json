@@ -429,6 +429,7 @@
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "cooked_porkchop": "2024-12-30 05:47:29 +0000",
+      "apple": "2024-12-31 01:03:04 +0000",
       "bread": "2024-12-30 03:48:21 +0000",
       "cooked_chicken": "2024-12-30 03:30:09 +0000",
       "cooked_mutton": "2024-12-30 03:52:36 +0000",
@@ -3593,9 +3594,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/flower_banner_pattern": {
+  "minecraft:recipes/misc/beacon": {
     "criteria": {
-      "has_oxeye_daisy": "2024-12-31 00:45:16 +0000"
+      "has_nether_star": "2024-12-31 00:36:38 +0000"
     },
     "done": true
   },
@@ -3635,21 +3636,75 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/cracked_deepslate_tiles": {
+    "criteria": {
+      "has_deepslate_tiles": "2024-12-31 00:39:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/flower_banner_pattern": {
+    "criteria": {
+      "has_oxeye_daisy": "2024-12-31 00:45:16 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/light_gray_dye_from_oxeye_daisy": {
     "criteria": {
       "has_oxeye_daisy": "2024-12-31 00:45:16 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/misc/beacon": {
+  "minecraft:recipes/decorations/stone_brick_wall": {
     "criteria": {
-      "has_nether_star": "2024-12-31 00:36:38 +0000"
+      "has_stone_bricks": "2024-12-31 01:03:31 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/cracked_deepslate_tiles": {
+  "minecraft:recipes/building_blocks/stone_brick_slab_from_stone_bricks_stonecutting": {
     "criteria": {
-      "has_deepslate_tiles": "2024-12-31 00:39:37 +0000"
+      "has_stone_bricks": "2024-12-31 01:03:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cracked_stone_bricks": {
+    "criteria": {
+      "has_stone_bricks": "2024-12-31 01:03:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_brick_stairs_from_stone_bricks_stonecutting": {
+    "criteria": {
+      "has_stone_bricks": "2024-12-31 01:03:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_brick_slab": {
+    "criteria": {
+      "has_stone_bricks": "2024-12-31 01:03:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_brick_stairs": {
+    "criteria": {
+      "has_stone_bricks": "2024-12-31 01:03:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_stone_bricks_from_stone_bricks_stonecutting": {
+    "criteria": {
+      "has_stone_bricks": "2024-12-31 01:03:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_stone_bricks": {
+    "criteria": {
+      "has_tag": "2024-12-31 01:03:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/stone_brick_wall_from_stone_bricks_stonecutting": {
+    "criteria": {
+      "has_stone_bricks": "2024-12-31 01:03:31 +0000"
     },
     "done": true
   },
