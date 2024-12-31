@@ -864,7 +864,8 @@
       "minecraft:spider": "2024-12-30 03:24:02 +0000",
       "minecraft:zombie": "2024-12-30 03:34:50 +0000",
       "minecraft:creeper": "2024-12-30 03:39:26 +0000",
-      "minecraft:drowned": "2024-12-30 04:15:17 +0000"
+      "minecraft:drowned": "2024-12-30 04:15:17 +0000",
+      "minecraft:evoker": "2024-12-31 00:01:27 +0000"
     },
     "done": false
   },
@@ -3382,6 +3383,12 @@
   "minecraft:recipes/redstone/honey_block": {
     "criteria": {
       "has_honey_bottle": "2024-12-30 23:42:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/hero_of_the_village": {
+    "criteria": {
+      "hero_of_the_village": "2024-12-31 00:04:16 +0000"
     },
     "done": true
   },
